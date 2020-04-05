@@ -2,7 +2,7 @@ package class4;
 
 public class TestNumber {
     public static void main(String[] args) {
-        // creating by hasan
+        // creating by hasan1983
 
         PlayWithNumbers p = new PlayWithNumbers();
         p.scanner();
