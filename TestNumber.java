@@ -3,6 +3,7 @@ package class4;
 public class TestNumber {
     public static void main(String[] args) {
         // creating by hasan1983
+        // this is a good program
 
         PlayWithNumbers p = new PlayWithNumbers();
         p.scanner();
